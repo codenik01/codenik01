@@ -9,7 +9,7 @@
 
 <!-- Banner  -->
 <a href="https://github.com/Glauedson">
-  <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
+  <img src="assets/images/CodeNik__.jpg" alt="Banner"  style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
@@ -134,4 +134,5 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 
 <!--
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+
 -->
