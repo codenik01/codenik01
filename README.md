@@ -45,13 +45,18 @@
 
 <div align="justify">
 
-I am a graduated **Software Developer** with a degree in `Systems Analysis and Development`, currently working as a **freelancer** while actively seeking an opportunity in the **technology field**. My professional journey is driven by **continuous learning**, **practical experience**, and a strong commitment to delivering **complete and functional systems** for real-world needs.
+<div align="justify">
 
-Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio` and `React Native`.
+I am a **Software Developer** with a strong interest in building **real-world products** across **web and mobile platforms**, currently working as a **freelancer** while actively seeking opportunities in the **technology field**. My journey is driven by **continuous learning**, hands-on problem solving, and a commitment to delivering **reliable, production-ready systems**.
 
-At the moment, I am working as a **freelancer**, developing **complete systems** for companies in my city, from **planning and interface design** to **implementation and delivery**. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand **business needs**, while constantly pushing me to grow as a **developer and professional**.
+I have developed solid experience in the **web development ecosystem**, with a particular focus on **front-end development**, where logical thinking meets **clean UI design and user experience**. Alongside web technologies, I also work in **mobile development**, building modern applications using **React Native** and **Android Studio**.
+
+In parallel, I have a growing interest in **applied AI, cybersecurity, and secure system design**, focusing on building applications that are not only functional and scalable, but also **secure by design**. I enjoy understanding how systems work end-to-end and identifying ways to improve performance, reliability, and security.
+
+
 
 </div>
+
 
 </br>
 </br>
@@ -99,7 +104,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 
 <!-- My contributions title -->
 <div align="center">
-<img src="./assets/images/Contributions.svg" width="50%">
+<img src="./assets/images/Contribution.jpg" width="50%">
 </br>
 </br>
 </div>
@@ -111,7 +116,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <img src="./assets/images/Stack.svg">
+      <img src="./assets/images/Stack.jpg">
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
@@ -121,7 +126,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
     </td>
     <!---->
     <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=codenik01&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
@@ -136,3 +141,4 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
 
 -->
+
