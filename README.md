@@ -9,7 +9,7 @@
 
 <!-- Banner  -->
 <a href="https://github.com/Glauedson">
-  <img src="assets/images/CodeNik__.jpg" alt="Banner"  style="width:100%; height:auto"/>
+  <img src="assets/images/CodeNik__.png" alt="Banner"  style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
@@ -141,6 +141,7 @@ In parallel, I have a growing interest in **applied AI, cybersecurity, and secur
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
 
 -->
+
 
 
 
