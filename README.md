@@ -74,7 +74,7 @@ In parallel, I have a growing interest in **applied AI, cybersecurity, and secur
           title="My Pinterest"/>
   </a>
   <!-- Linkedin -->
-  <a href="www.linkedin.com/in/codenik" target="_blank">
+  <a href="[www.linkedin.com/in/codenik](https://www.linkedin.com/in/codenik/)" target="_blank">
     <img width="100px" 
           src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
           alt="Linkedin"
