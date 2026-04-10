@@ -67,7 +67,7 @@ In parallel, I have a growing interest in **applied AI, cybersecurity, and secur
   </br>
 
   <!-- Pinterest -->
-  <a href="https://br.pinterest.com/Glauedson_/" target="_blank">
+  <a href="https://pin.it/68yu9ERRb" target="_blank">
     <img width="130px" 
           src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=white" 
           alt="Pinterest"
