@@ -201,7 +201,7 @@ flowchart LR
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codenik01/codenik01/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/codenik01/codenik01/output/snake.svg?v=2" alt="Snake animation"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1001,100:000000&height=2" width="100%"/>
